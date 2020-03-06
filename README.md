@@ -4,5 +4,5 @@
   </a>
 </p>
 <h1 align="center">
-  To see each individual projects change the branch
+  To see each individual project, change the branch
 </h1>
