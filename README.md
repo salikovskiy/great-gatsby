@@ -4,5 +4,5 @@
   </a>
 </p>
 <h1 align="center">
-  To see each individual project, change the branch
+  The Great Gatsby Bootcamp
 </h1>
