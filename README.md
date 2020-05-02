@@ -7,7 +7,6 @@
   The Great Gatsby Bootcamp
 </h1>
 
-## Gatsby blog website
 ### [💽 Demo](https://github.com/salikovskiy/great-gatsby) 
 
 Guided by Andrew Mead tutorial [Gatsby JS - The Great Gatsby Bootcamp](https://www.youtube.com/watch?v=8t0vNu2fCCM)
@@ -15,7 +14,7 @@ Guided by Andrew Mead tutorial [Gatsby JS - The Great Gatsby Bootcamp](https://w
  ## Features:
 
 - [x] Contentful CMS control
-- [x] auto slug
+- [x] Auto slug
 - [x] ...
 
 ## Built With
